@@ -1,0 +1,14 @@
+.interiorChipContainer{
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+
+.interiorChipText {
+    color: #15803D;
+    border: 1px solid #BBF7D0;
+    background-color: #F0FDF4;
+    padding: 2px 8px;
+    border-radius: 20px;
+
+}
